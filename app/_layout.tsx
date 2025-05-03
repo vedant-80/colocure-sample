@@ -69,7 +69,7 @@ export default function Layout() {
       <View style={styles.splash}>
         <Image
           style={styles.image}
-          source={require("/home/vdnt/sample/assets/images/ColoCureFinalLogo.png")}  
+          source={require("../assets/images/ColoCureFinalLogo.png")}  
         />
         <Text style={styles.outerText}>Colo
           <Text style={styles.innerText}>Cure</Text>

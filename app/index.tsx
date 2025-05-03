@@ -28,7 +28,7 @@ const Index = () => {
     <SafeAreaView style={styles.container}>
       <View style={{top: 100}}>
         <Image
-          source={require("/home/vdnt/sample/assets/images/ColoCureFinalLogo.png")}  
+          source={require("../assets/images/ColoCureFinalLogo.png")}  
           style={styles.image}
         />
         <Text style={styles.outerText}>Colo
